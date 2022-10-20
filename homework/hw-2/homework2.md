@@ -12,12 +12,18 @@
 
 ## 3. What is special about these accounts :
 	1. 0x1db3439a222c519ab44bb1144fc28167b4fa6ee6
+
     * is an account with 1575 transactions
+
 	2. 0x000000000000000000000000000000000000dEaD
+    
     * is a burn address
 
 ## 4. Using [remix](https://remix.ethereum.org)  add [this](https://gist.github.com/extropyCoder/77487267da199320fb9c852cfde70fb1) contract as a source file 
 	1. Compile the contract
+    
     * OK
-	2. Deploy the contract to the Remix VM environment
+	
+    2. Deploy the contract to the Remix VM environment
+    
     * `[vm]from: 0x5B3...eddC4to: BootcampContract.(constructor)value: 0 weidata: 0x608...70033logs: 0hash: 0x5b0...89a33`
